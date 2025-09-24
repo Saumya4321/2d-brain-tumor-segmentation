@@ -1,4 +1,4 @@
-# Uncertainty Analysis of Augmentation Techniques in Brain Tumor Segmentation
+# Analysis of Augmentation Techniques in Brain Tumor Segmentation
 
 ## Overview
 This study evaluates a standard U-Net architecture (incorporating focal loss to address
@@ -107,14 +107,6 @@ achieving faster convergence and lower final loss.
 ![Screenshot 2025-04-01 145957](https://github.com/user-attachments/assets/f5f08a7d-75ee-4362-9d10-d2802570c3a8)
 
 
-
-## Citation
-
-If you find this work useful, please cite:
-```
-Saumya B, "Uncertainty Analysis of Augmentation Techniques in Brain Tumor Segmentation," 2025.
-GitHub repository - https://github.com/Saumya4321/ds261-project
-```
 
 
 
