@@ -93,15 +93,6 @@ or no improvement in segmentation performance
 
 ![image](https://github.com/user-attachments/assets/28a3c1c7-10a6-40a1-9f89-95587faa4ad8)
 
-Boundary-specific metrics—including mean boundary uncertainty and maximum boundary uncertainty— highlighted that applying augmentations like Horizontal Flip and Rotation decreased uncertainty at tumor boundaries.
-
-
-#### Uncertainty visualizations for different augmentations
-
-![image](https://github.com/user-attachments/assets/40279e84-4411-42e9-b9ad-64ffc4efbd32)
-
-From the above images, it can be seen that the data augmentations varies uncertainty at tumor boundaries to different extents. Scaling specifically, is seen to reduce uncertainty at tumor boundaries when compared to no-augmentation control case. This indicates that these techniques not only improve segmentation accuracy but also enhance the model’s confidence in its predictions.
-
 
 #### Training graphs
 ![image](https://github.com/user-attachments/assets/35517e31-c5a4-4b57-8354-9b02d6aaba70)
