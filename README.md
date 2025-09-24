@@ -1,8 +1,5 @@
 # Uncertainty Analysis of Augmentation Techniques in Brain Tumor Segmentation
 
-## Motivation
-This project was undertaken as the final project for the '*AI for Medical Image Analysis - DS261*' course @ CDS, IISc.
-
 ## Overview
 This study evaluates a standard U-Net architecture (incorporating focal loss to address
 class imbalance) for brain tumor segmentation tasks and compares the effect of data augmentation on segmentation performance. The model
@@ -25,7 +22,7 @@ This directory contains a readme file with the link to download the best perform
 + ```Brain_Tumor_Segmentation_best.ipynb```\
 Notebook containing the best performing segmentation model
 
-+ ```Inference_notebook_for_grading.ipynb```\
++ ```Inference_notebook.ipynb```\
 This notebook loads the weights of the best performing model and runs inference on the provided test data provided in the zip file. Before running this notebook, download the weights from [link](https://drive.google.com/file/d/1YChnisdNceJbb9c4KcS6WbjdLOr4_B1K/view?usp=sharing) , the test data from ```test_data.zip``` and unzip them.
 
 + ```test_data.zip```\
