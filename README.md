@@ -52,7 +52,7 @@ masks were uploaded as 256x256 pixel images.
 
 ## Model architecture
 UNet was implemented from scratch using keras module from tensorflow. The architecture followed the sequence according to the given 
-table
+table - 
 ![image](https://github.com/user-attachments/assets/b84f879a-b31f-4a06-86c1-496cc5821b87)
 
 
